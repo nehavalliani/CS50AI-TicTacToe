@@ -1,4 +1,4 @@
-# TicTacttoe
+# TicTacToe
 Added AI functionality with python to the game so that either the computer wins or it is a tie. 
 
 # The Game
